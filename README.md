@@ -1,5 +1,5 @@
 # Demo Springboot REST Service
-inkl. Dockerfile
+inkl. Dockerfile. Beispiel basiert auf Springboot 2.0.0 (vgl. https://start.spring.io/ mit "Web" Dependency)
 
 
 ## Prerequsites
@@ -59,3 +59,7 @@ Remove image
 ```
 docker rmi enpit/springboot-rest-service
 ```
+
+## Further information
+
+Please make sure you have the right understanding of running Java in a Container: https://jaxenter.com/nobody-puts-java-container-139373.html
