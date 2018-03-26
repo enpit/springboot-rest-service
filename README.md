@@ -12,7 +12,7 @@ inkl. Dockerfile
 ## Get the Sourcecode
 
 ```
-git clone https://github.com/enpit/springboot-rest-service
+git clone https://github.com/enpit/springboot-rest-service.git
 ```
 
 ## Build service
