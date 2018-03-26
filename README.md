@@ -29,7 +29,7 @@ java -jar target/rest-service-0.0.1-SNAPSHOT.jar
 or using the springboot maven plugin
 
 ```
-mvn spring-boot:build
+mvn spring-boot:run
 ```
 
 Access service through browser at http://localhost:8080/hello
